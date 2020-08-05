@@ -26,11 +26,19 @@ sections:
   path: exampleSite/content/about/_index.md
   label: About
 - type: document
+  path: exampleSite/content/CV/_index.md
+  label: CV
+  match: "**/*"
+- type: document
+  path: exampleSite/content/more/_index.md
+  label: More
+- type: document
+  path: exampleSite/content/my-work/_index.md
+  label: My Work
+  match: "**/*"
+- type: document
   path: exampleSite/content/contact/_index.md
   label: Contact
-- type: document
-  path: exampleSite/content/privacy-policy/_index.md
-  label: Privacy Policy
 - type: heading
   label: Configuration
 - type: directory
