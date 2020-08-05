@@ -1,7 +1,8 @@
 ---
-title: "Lets Contact Us"
-# meta description
-description: "this is meta description"
-# save as draft
-draft: false
+title: Contact Me
+description: this is meta description
+
 ---
+Email: tzuyiho713@outlook.com
+
+Phone: +86-13472585009
