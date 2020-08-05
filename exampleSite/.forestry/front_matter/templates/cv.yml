@@ -8,3 +8,13 @@ fields:
 - type: text
   name: description
   label: description
+- name: Tzuyi
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: CV
+  description: This is my CV
