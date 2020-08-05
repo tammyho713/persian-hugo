@@ -1,6 +1,6 @@
 ---
 title: Tammy Ho
-image: ''
+image: "/images/headshot.jpg"
 email: tzuyiho@outlook.com
 social:
 - icon: LinkedIn
