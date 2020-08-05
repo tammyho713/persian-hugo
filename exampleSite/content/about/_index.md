@@ -1,6 +1,6 @@
 ---
 title: Ho Tzu-Yi Tammy
-image: images/headshot.jpg
+image: "/images/headshot.jpg"
 description: This is meta description.
 
 ---
