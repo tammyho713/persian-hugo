@@ -7,10 +7,22 @@ theme = "persian"
 title = "Tammy Ho"
 [markup.goldmark.renderer]
 unsafe = true
-[menu.main]
-URL = "categories/nature/"
-name = "More"
-weight = 4
+[[menu.main]]
+name = "CV"
+url = "http://101.200.193.109/hotzuyi/about/"
+weight = 6
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]

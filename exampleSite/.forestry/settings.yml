@@ -28,14 +28,12 @@ sections:
 - type: document
   path: exampleSite/content/CV/_index.md
   label: CV
-  match: "**/*"
 - type: document
   path: exampleSite/content/more/_index.md
   label: More
 - type: document
   path: exampleSite/content/my-work/_index.md
   label: My Work
-  match: "**/*"
 - type: document
   path: exampleSite/content/contact/_index.md
   label: Contact
