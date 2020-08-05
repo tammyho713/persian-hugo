@@ -29,7 +29,7 @@ sections:
   path: exampleSite/content/CV/_index.md
   label: CV
 - type: document
-  path: exampleSite/content/more/_index.md
+  path: exampleSite/content/private-policy/_index.md
   label: More
 - type: document
   path: exampleSite/content/my-work/_index.md
