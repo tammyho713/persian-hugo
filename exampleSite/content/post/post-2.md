@@ -1,7 +1,7 @@
 ---
 title: Weekend Hike
 date: 2020-01-12T12:14:34.000+06:00
-image: "/images/551709478652412183.jpg"
+image: "/images/413191915280571215.jpg"
 author: Tzuyi Ho
 description: This is meta description.
 categories:
